@@ -1,6 +1,6 @@
 //CYBER-X  DARKALPHAXTEAM ◎◎◎ https://github.com/darkalphaxteam\\
 //══════════════THANKS FOR CHEEMS BOT MD (DGNEON)═ALL THE CREADITS GOES TO HIM═════════════\\
-// EXAM RAJ BOT 😓😓😓 GOOD LUCK ALL\\
+// EXAM KING BOT BIHAR 😓😓😓 GOOD LUCK ALL\\
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -37,23 +37,23 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['917827901590'] //ur owner number
-global.ownername = "RAJ BOT BIHAR" //ur owner name
+global.ownername = "KING BOT BIHAR" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "RAJ BOT , BIHAR, INDIA" //ur location
+global.location = "KING BIHAR , BIHAR, INDIA" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['917827901590']
 global.ownertag = '917827901590' //ur tag number
 global.botnumber = '917827901590' //Add your Bot Number For Log
-global.botname = 'RAJ-BOT' //ur bot name
+global.botname = 'KING-BOT' //ur bot name
 global.ig = "https://youtube.com/channel/UCh4s8NNUuqCkLQ6e2PsHkwQ" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtube.com/channel/UCh4s8NNUuqCkLQ6e2PsHkwQ" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtube.com/channel/UCh4s8NNUuqCkLQ6e2PsHkwQ'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "RAJ-BOT" //ur sticker watermark packname
+global.packname = "KING-BOT" //ur sticker watermark packname
 global.author = "DARK ALPHA" //ur sticker watermark author
 global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
@@ -85,7 +85,7 @@ global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = []
+global.wlcm = [आपका दिल से वेलकम हे मेरे ग्रुप मे]
 global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
